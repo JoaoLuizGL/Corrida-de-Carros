@@ -1,0 +1,14 @@
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\bin\Debug\net8.0\Corrida de Carros.exe
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\bin\Debug\net8.0\Corrida de Carros.deps.json
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\bin\Debug\net8.0\Corrida de Carros.runtimeconfig.json
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\bin\Debug\net8.0\Corrida de Carros.dll
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\bin\Debug\net8.0\Corrida de Carros.pdb
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\Corrida de Carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\Corrida de Carros.AssemblyInfoInputs.cache
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\Corrida de Carros.AssemblyInfo.cs
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\Corrida de Carros.csproj.CoreCompileInputs.cache
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\Corrida de Carros.dll
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\refint\Corrida de Carros.dll
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\Corrida de Carros.pdb
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\Corrida de Carros.genruntimeconfig.cache
+C:\Users\joaol\OneDrive\Área de Trabalho\JOÃO LUIZ\Programação\Projetos\Corrida de Carros\Corrida de Carros\obj\Debug\net8.0\ref\Corrida de Carros.dll
